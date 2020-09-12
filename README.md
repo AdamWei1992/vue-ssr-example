@@ -1,2 +1,16 @@
-# vue-ssr-example
-vue服务端渲染学习实例
+# About
+这是关于vue-ssr的学习实例
+
+# 使用方法
+```
+git clone https://github.com/Jokcy/vue-todo-tech.git
+```
+进入项目目录，运行
+```
+npm install
+```
+然后执行
+```
+npm run dev
+```
+开始开发项目
